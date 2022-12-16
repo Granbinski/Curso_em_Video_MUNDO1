@@ -1,3 +1,3 @@
-n1 = 10
-n2 = 20
-print('A soma entre {} e  {} \n é {}'.format(n1, n2, n1+n2), end=' ')
+import emoji
+
+print(emoji.emojize('Olá, Mundo :earth_americas:', use_aliases=True))
